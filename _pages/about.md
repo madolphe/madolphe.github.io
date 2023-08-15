@@ -2,19 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Inria</a>, <a href="">onepoint</a>, <a href="">Uni Bordeaux<a href="">, Inserm 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: pp.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Working most of my time in <a href="">Flowers team</a> <p>
+    <p>And also for R&D team at <a href="">onepoint<a></p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -32,6 +31,4 @@ And lo, a new chapter beckoned – a grand quest much like the Triwizard Tournam
 
 But the story doesn't end here, for my magical odyssey is just beginning. Just as a young wizard at Hogwarts dreams of becoming an accomplished Auror, I am poised to embrace the ever-unfolding realms of AI. Armed with knowledge, humor, and a touch of Felix Felicis luck, I march forward, knowing that the spellbinding journey of discovery and wonder is an ongoing enchantment. So, dear reader, grab your wand and stay tuned, for this magical tale has countless pages yet to be turned!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
