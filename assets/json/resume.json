@@ -2,53 +2,110 @@
   "basics": {
     "name": "Adolphe Maxime",
     "label": "Scientist",
-    "email": "maxime.adolphe@inria.fr",
-    "summary": "A phd student working at inria Flowers team and onepoint"
+    "email": "maximadolphe@gmail.com",
+    "summary": "Conducting research in AI and cognitive sciences."
+
   },
   "work": [
     {
-      "name": "PhD in progress",
-      "position": "Young researcher",
-      "startDate": "2020-01-01",
-      "endDate": "1955-01-01",
-      "summary": "This has to be described in a much longer box!", 
+      "name": "Onepoint R&D Team",
+      "position": "Researcher",
+      "startDate": "2024",
+      "endDate": "",
+      "summary": "Assisting in the development of new AI technologies, primarily focused on AI for education."
+    },
+    {
+      "name": "ENSC, Uni Bordeaux",
+      "position": "Adjunct Lecturer",
+      "startDate": "2021",
+      "endDate": "",
+      "summary": "Teach and develop teaching materials for different classes such as:", 
       "highlights": [
-        "Cognition", "AI", "Cognitive training", "Visual attention"
-      ]
-    }
+        "Intro to AI (18 hours) ~ ENSC (Bachelors level)",
+        "Introduction to web development in HTML, CSS, PHP, and JavaScript (50 hours) ~ ENSC (Bachelor's level)",
+        "Deep Generative Models, focus on VAE (4 hours) ~ ENSC (Masters level)", 
+        "Bayesian Data Analysis (8 hours) ~ ENSC, Uni Bordeaux"
+      ] 
+    }, 
+    {
+      "name": "Onepoint R&D Team",
+      "position": "4 months internship",
+      "startDate": "2020",
+      "endDate": "2020",
+      "summary": "Studied and developed deep learning strategies to detect and classify emotions in videos."
+    } 
   ],
   "volunteer": [
     {
       "country": "Nepal",
-      "year": "2017", 
-      "duration": "1 month",
-      "image": "",
+      "startDate": "2017", 
+      "endDate" : "2017",
       "organization": "IEC Nepal",
-      "mission": "Help and develop a website for the organization."
+      "highlights":[  
+        "Blog: <a href=https://visionofnepal.wordpress.com/> HERE!</a>", 
+        "Mission: Assisted in the development of a website for the organization.",
+        "Duration: 1 month"
+      ],
+      "image": "/assets/img/nepal_pic.png"
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "University of Sherbrooke",
+      "area": "Cognitive Sciences & AI",
+      "studyType": "Master's Degree",
+      "startDate": "2021",
+      "endDate": "2021",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Machine Learning with the renowned <a href=https://www.youtube.com/@pierre-marcjodoin5991>[Prof Jodoin]</a>", 
+        "Data Science",
+        "Cognitive Sciences", 
+        "Medical Imaging with the amazing <a href=https://www.usherbrooke.ca/recherche/fr/specialistes/details/maxime.descoteaux/>[Prof Descoteaux]</a>"
+      ]
+    },
+    {
+      "institution": "University of Bordeaux, Inria, Onepoint",
+      "area": "Cognitive Sciences & AI",
+      "studyType": "PhD Degree",
+      "startDate": "2021",
+      "endDate": "2024",
+      "score": "", 
+      "courses": [
+        "Educational Technologies",
+        "Machine Learning",
+        "Cognitive Training", 
+        "Experimental Psychology (see <a href='https://flowers-ol.bordeaux.inria.fr/flowers_demo'>a demo here</a>)",
+        "Bayesian Data Analysis"
+      ]
+    },  
+    {
+      "institution": "École Nationale Supérieure de Cognitique",
+      "area": "Engineering School in Cognitive Science and AI",
+      "studyType": "Master's Degree",
+      "startDate": "2017",
+      "endDate": "2020",
+      "score": "",
+      "courses": [
+        "Computer Sciences (html, css, php, C#)",
+        "Artificial Intelligence (Python and related AI libraries such as Pandas, NumPy, and TensorFlow)", 
+        "Cognitive Psychology",
+        "UX design"
+      ]
+    }, 
+    {
+      "institution": "Classes Préparatoires aux Grandes Ecoles (CPGE)",
+      "area": "Mathematics and Physics (MP)",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2015",
+      "endDate": "2017",
+      "score": "",
+      "courses": [
+          "Fundamentals in mathematics and physics."
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
+  "awards": [],
   "certificates": [],
   "publications": [],
   "skills": [],

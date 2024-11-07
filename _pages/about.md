@@ -9,26 +9,16 @@ profile:
   image: pp.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Working most of my time in <a href="">Flowers team</a> <p>
-    <p>And also for R&D team at <a href="">onepoint<a></p>
+    <p>Working at <a href="">onepoint<a> <p>
+    <p>Former phd student at <a href="">Flowers team</a></p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-#My Magical AI Odyssey: From Math Puzzles to Enchanted Algorithms!
+# Stay Curious
+Curiosity has always been at the heart of everything I do. Growing up, I was endlessly fascinated by the world and how things work. Instead of rushing to define my career path, I let myself explore—a journey that took me from the rigorous "classes prépa" in France, through engineering school, and finally to earning a PhD. This approach allowed me to dive into what interests me most without confining myself to a traditional job title. I used to think I needed a fixed career label, but I’ve come to realize I’m happier without one. My goal is to find inspiring spaces where I can keep learning and where human values take precedence over profit.
 
-Once upon a wizarding time, I embarked on a whimsical journey akin to a Hogwarts adventure – prepa MPSI / MP was like my very own Potions class, where I dived into a cauldron of math and physics mysteries. It was like discovering a room full of enchanted riddles, each waiting to be unlocked. Just like a spell-casting apprentice, I learned to conjure solutions even when they were as elusive as a Golden Snitch.
-
-But wait, that was just the opening chapter of my magical tale. Imagine striding into ENSC, a mystical school of engineering wonders, where I donned the robes of curiosity and delved into the arcane arts of understanding complex systems. Like a wizard deciphering ancient scrolls, I uncovered the hidden world of artificial intelligence – it felt as though I had stumbled upon the Marauder's Map to AI marvels!
-
-Next, I hopped onto a magical broomstick and journeyed across the enchanted sea to the University of Sherbrooke. My specialization in AI was like discovering a Pensieve, allowing me to plunge deep into the swirling memories of machine learning. Much like a budding Animagus mastering transformation, I underwent a remarkable shift, evolving from a curious explorer to a true AI sorcerer.
-
-Upon my return, I was welcomed into the illustrious Flowers team at Inria, a gathering of scholarly wizards and witches. Just like Dumbledore's Army, we delved into AI research, pondering questions that danced like Fizzing Whizbees – "What's the essence of true learning?", "Why do certain ideas beckon us like the Mirror of Erised?", "Can we bottle the elixir of knowledge for lasting enchantment?" With every incantation of research, my skills were refined, much like a potion brewed to perfection.
-
-And lo, a new chapter beckoned – a grand quest much like the Triwizard Tournament. I embarked on a journey akin to an Animagus learning to control their form, pursuing a PhD. Like a masterful Legilimens, I delved into the intricacies of learning, motivation, and memory retention. It was as though I had discovered the secrets of the Room of Requirement, fine-tuning my expertise to unlock hidden potentials.
-
-But the story doesn't end here, for my magical odyssey is just beginning. Just as a young wizard at Hogwarts dreams of becoming an accomplished Auror, I am poised to embrace the ever-unfolding realms of AI. Armed with knowledge, humor, and a touch of Felix Felicis luck, I march forward, knowing that the spellbinding journey of discovery and wonder is an ongoing enchantment. So, dear reader, grab your wand and stay tuned, for this magical tale has countless pages yet to be turned!
-
-
+# Interests
+My PhD project was a transdisciplinary journey that sparked my curiosity across several fields. With the inspiring Flowers team, I explored how agents—primarily humans—autonomously explore their environments to develop new skills. My focus was on educational technologies, specifically on how theories from developmental psychology could help shape and personalize learning experiences. I dived into how cognitive training interventions, in particular, might be tailored to individuals using these insights. Through this work, I studied various cognitive mechanisms, like visual attention, intrinsic motivation, self-regulated learning, and metacognition. I also spent time exploring data visualization projects and experimenting with innovative methods for data analysis (#BayesianTeam).

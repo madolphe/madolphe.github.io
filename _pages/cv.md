@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-#cv_pdf: example_pdf.pdf
-description: This page is still under construction (i am not Enstein, this is the template I'll be using)! 
+cv_pdf: CV-ADOLPHE-Fr.pdf
+description: Main information here (CV only available in french for now)!
 toc: 
     sidebar: left
 ---
