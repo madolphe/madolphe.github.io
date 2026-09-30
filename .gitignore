@@ -9,3 +9,7 @@ _site
 Gemfile.lock
 vendor
 
+
+# Candidatures ciblées (CV, lettres) : restent en local, hors du dépôt public
+_cv-latex/
+.claude/
