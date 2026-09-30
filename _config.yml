@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Maxime
 middle_name:
 last_name: Adolphe
-email: maxime.adolphe@inria.fr
+email: maximadolphe@gmail.com
 description: >
   Maxime Adolphe — Postdoctoral Researcher at CEA, former PhD student at Inria (Flowers team).
   Research in AI, computational neuroscience, educational technologies, and cognitive sciences.
@@ -82,7 +82,7 @@ telegram_username: # your Telegram user name
 scholar_userid: QLtZ3cAAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: # your ORCID ID
+orcid_id: 0000-0002-9100-9355 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -160,9 +160,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+external_sources: []
 
 # -----------------------------------------------------------------------------
 # Collections
